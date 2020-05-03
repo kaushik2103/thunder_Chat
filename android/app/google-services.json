@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13331443513",
+    "firebase_url": "https://thunder-chat-f84f6.firebaseio.com",
+    "project_id": "thunder-chat-f84f6",
+    "storage_bucket": "thunder-chat-f84f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13331443513:android:84e4cfa18b0961058f02e8",
+        "android_client_info": {
+          "package_name": "com.kaushik.thunderchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13331443513-mvjn92qjgfeghdc614e8dcr77ajo13k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhyfWU4NSz-lJFO-xxXYQEcO6uoPEURc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13331443513-mvjn92qjgfeghdc614e8dcr77ajo13k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
